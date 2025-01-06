@@ -1,5 +1,7 @@
 # Hulu Clone - Streaming TV, Movies, and Live Sports
 
+![Hulu-Clone Preview](./assets/hulu-preview.png)
+
 This is a clone of the popular Hulu website, created to showcase streaming TV shows, movies, and live sports online. It offers a variety of subscription plans for users to explore, including Disney+ and ESPN+. The project is designed with HTML, CSS, and JavaScript, mimicking the structure and design of the original Hulu website.
 
 ## Features
